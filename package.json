@@ -26,7 +26,8 @@
     "underscore": "~1.5.2",
     "cheerio": "~0.13.1",
     "nodepie": "~0.6.3",
-    "request": "~2.33.0"
+    "request": "~2.33.0",
+    "underscore.string": "~2.3.3"
   },
   "engines": {
     "node": ">= 0.8.x",
