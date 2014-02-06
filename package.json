@@ -28,7 +28,8 @@
     "nodepie": "~0.6.3",
     "request": "~2.33.0",
     "underscore.string": "~2.3.3",
-    "soupselect": "~0.2.0"
+    "soupselect": "~0.2.0",
+    "htmlparser": "~1.7.7"
   },
   "engines": {
     "node": ">= 0.8.x",
