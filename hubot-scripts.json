@@ -18,6 +18,7 @@
 	"imdb.coffee",
 	"insult.coffee",
 	"lmgtfy.coffee",
+	"newrelic.coffee",
 	"news.coffee",
 	"pinkman.coffee",
 	"remember.coffee",
