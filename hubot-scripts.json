@@ -5,7 +5,7 @@
 	"applause.coffee",
 	"beeradvocate.coffee",
 	"brewerydb.coffee",
-	"bitcoin",
+	"bitcoin.coffee",
 	"chat.coffee",
 	"countdown.coffee",
 	"decide.coffee",
